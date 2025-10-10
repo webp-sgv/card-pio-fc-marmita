@@ -26,16 +26,11 @@
             "texto": "Macarronada 🍝"
         }
     ],
-    "carne": [
+    "carne bovina": [
         {
             "id": "5",
             "data_produto": "almondega",
             "texto": "Almôndega Bovina 🥩"
-        },
-        {
-            "id": "10",
-            "data_produto": "bife-frango",
-            "texto": "Bife de Frango 🍗"
         },
         {
             "id": "11",
@@ -56,6 +51,37 @@
             "id": "23",
             "data_produto": "costela-bovina",
             "texto": "Costela Bovina 🍖"
+        }
+    ],
+    "carne suina": [
+        {
+            "id": "15",
+            "data_produto": "pernil-suino",
+            "texto": "Bife Pernil Suíno 🥩"
+        }
+    ],
+    "carne aves": [
+        {
+            "id": "10",
+            "data_produto": "bife-frango",
+            "texto": "Bife de Frango 🍗"
+        },
+        {
+            "id": "24",
+            "data_produto": "frango-frito",
+            "texto": "Frango frito 🍗"
+        }
+    ],
+    "molhos": [
+        {
+            "id": "25",
+            "data_produto": "molho-cara",
+            "texto": "Molho de cará 🥔"
+        },
+        {
+            "id": "26",
+            "data_produto": "molho-chuchu",
+            "texto": "Molho chuchu 🥬"
         }
     ],
     "salada": [
