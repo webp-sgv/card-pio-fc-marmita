@@ -58,6 +58,12 @@
             "texto": "Costela Bovina 🍖"
         }
     ],
+    "aves": [
+        {
+        "id": "24",
+        "data_produto": "frango_frito",
+        "texto": "Frango frito 🍗"},
+    ],
     "salada": [
         {
             "id": "6",
