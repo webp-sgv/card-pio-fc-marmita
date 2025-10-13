@@ -38,11 +38,6 @@
             "texto": "Bife de Vaca 🥩"
         },
         {
-            "id": "15",
-            "data_produto": "pernil-suino",
-            "texto": "Bife Pernil Suíno 🥩"
-        },
-        {
             "id": "21",
             "data_produto": "bife-figado",
             "texto": "Bife de Fígado Bovina 🥩"
@@ -51,6 +46,11 @@
             "id": "23",
             "data_produto": "costela-bovina",
             "texto": "Costela Bovina 🍖"
+        },
+        {
+            "id": "30",
+            "data_produto": "musculo-cozido",
+            "texto": "Músculo Cozido 🥩"
         }
     ],
     "carne suina": [
@@ -69,26 +69,31 @@
         {
             "id": "24",
             "data_produto": "frango-frito",
-            "texto": "Frango frito 🍗"
+            "texto": "Frango Frito 🍗"
+        },
+        {
+            "id": "27",
+            "data_produto": "frango-assado",
+            "texto": "Frango Assado 🍗"
         }
     ],
     "molhos": [
         {
             "id": "25",
             "data_produto": "molho-cara",
-            "texto": "Molho de cará 🥔"
+            "texto": "Molho de Cará 🥔"
         },
         {
             "id": "26",
             "data_produto": "molho-chuchu",
-            "texto": "Molho chuchu 🥬"
+            "texto": "Molho de Chuchu 🥬"
         }
     ],
     "salada": [
         {
             "id": "6",
             "data_produto": "couve-refogado",
-            "texto": "Couve Refogado 🥬"
+            "texto": "Couve Refogada 🥬"
         },
         {
             "id": "7",
@@ -150,6 +155,16 @@
             "id": "20",
             "data_produto": "molho-batata",
             "texto": "Molho de Batata 🥔"
+        },
+        {
+            "id": "28",
+            "data_produto": "batata-assada",
+            "texto": "Batata Assada 🥔"
+        },
+        {
+            "id": "29",
+            "data_produto": "abobrinha-refogada",
+            "texto": "Abobrinha Refogada 🎃"
         }
     ]
 }
