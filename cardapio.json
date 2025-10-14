@@ -51,118 +51,123 @@
             "id": "10",
             "data_produto": "musculo-cozido",
             "texto": "Músculo Cozido 🥩"
+        },
+        {
+            "id": "11",
+            "data_produto": "disco-carne",
+            "texto": "Disco carne bovina 🥩"
         }
     ],
     "carne suina": [
         {
-            "id": "11",
+            "id": "12",
             "data_produto": "pernil-suino",
             "texto": "Bife Pernil Suíno 🥩"
         }
     ],
     "carne aves": [
         {
-            "id": "12",
+            "id": "13",
             "data_produto": "bife-frango",
             "texto": "Bife de Frango 🍗"
         },
         {
-            "id": "13",
+            "id": "14",
             "data_produto": "frango-frito",
             "texto": "Frango Frito 🍗"
         },
         {
-            "id": "14",
+            "id": "15",
             "data_produto": "frango-assado",
             "texto": "Frango Assado 🍗"
         }
     ],
     "complemento": [
         {
-            "id": "15",
+            "id": "16",
             "data_produto": "pequi-milho-verde",
             "texto": "Pequi com Milho Verde 🌽"
         },
         {
-            "id": "16",
+            "id": "17",
             "data_produto": "angu-milho",
             "texto": "Angu de Milho 🌽"
         },
         {
-            "id": "17",
+            "id": "18",
             "data_produto": "mandioca-cozida",
             "texto": "Mandioca Cozida 🍠"
         },
         {
-            "id": "18",
+            "id": "19",
             "data_produto": "molho-batata",
             "texto": "Molho de Batata 🥔"
         },
         {
-            "id": "19",
+            "id": "20",
             "data_produto": "batata-assada",
             "texto": "Batata Assada 🥔"
         },
         {
-            "id": "20",
+            "id": "21",
             "data_produto": "abobrinha-refogada",
             "texto": "Abobrinha Refogada 🎃"
         }
     ],
     "fritura": [
         {
-            "id": "21",
+            "id": "22",
             "data_produto": "banana-frita",
             "texto": "Banana Frita 🍌"
         }
     ],
     "molhos": [
         {
-            "id": "22",
+            "id": "23",
             "data_produto": "molho-cara",
             "texto": "Molho de Cará 🥔"
         },
         {
-            "id": "23",
+            "id": "24",
             "data_produto": "molho-chuchu",
             "texto": "Molho de Chuchu 🥬"
         }
     ],
     "salada": [
         {
-            "id": "24",
+            "id": "25",
             "data_produto": "couve-refogado",
             "texto": "Couve Refogada 🥬"
         },
         {
-            "id": "25",
+            "id": "26",
             "data_produto": "salada-fria",
             "texto": "Salada Fria 🥗"
         },
         {
-            "id": "26",
+            "id": "27",
             "data_produto": "beterraba-cenoura",
             "texto": "Beterraba e Cenoura 🥕"
         },
         {
-            "id": "27",
+            "id": "28",
             "data_produto": "salada-maionese",
             "texto": "Salada de Maionese 🍲"
         },
         {
-            "id": "28",
+            "id": "29",
             "data_produto": "alface-tomate",
             "texto": "Alface e Tomate 🥗"
         },
         {
-            "id": "29",
+            "id": "30",
             "data_produto": "beterraba-cozida",
             "texto": "Beterraba Cozida 🫜"
         }
     ],
     "fruta": [
         {
-            "id": "30",
+            "id": "31",
             "data_produto": "laranja",
             "texto": "Laranja 🍊"
         }
