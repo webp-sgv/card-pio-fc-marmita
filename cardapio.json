@@ -1,61 +1,69 @@
 {
     "principal": [
         {"id": "1", "data_produto": "arroz", "texto": "Arroz 🍚"},
-        {"id": "2", "data_produto": "feijao", "texto": "Feijão Caldo 🫘"},
-        {"id": "3", "data_produto": "feijoada", "texto": "Feijoada 🫘"},
-        {"id": "4", "data_produto": "macarrao", "texto": "Macarrão 🍝"},
-        {"id": "5", "data_produto": "macarronada", "texto": "Macarronada 🍝"}
+        {"id": "2", "data_produto": "feijao", "texto": "Feijão Caldo 🥣"},
+        {"id": "3", "data_produto": "tutu-feijao", "texto": "Tutu de feijao 🫘"},
+        {"id": "4", "data_produto": "feijoada", "texto": "Feijoada 🍲"},
+        {"id": "5", "data_produto": "macarrao", "texto": "Macarrão 🍝"},
+        {"id": "6", "data_produto": "macarronada", "texto": "Macarronada 🍝"}
     ],
     "carne bovina": [
-        {"id": "6", "data_produto": "almondega", "texto": "Almôndega Bovina 🥩"},
-        {"id": "7", "data_produto": "musculo-mandioca", "texto": "Músculo Bovino com Mandioca 🥩"},
-        {"id": "8", "data_produto": "bife-bovino", "texto": "Bife Bovino 🥩"},
-        {"id": "9", "data_produto": "bife-figado", "texto": "Bife de Fígado Bovino 🥩"},
-        {"id": "10", "data_produto": "costela-bovina", "texto": "Costela Bovina 🍖"},
-        {"id": "11", "data_produto": "musculo-cozido", "texto": "Músculo Cozido 🥩"},
-        {"id": "12", "data_produto": "disco-carne", "texto": "Disco de Carne Bovina 🥩"}
+        {"id": "7", "data_produto": "almondega", "texto": "Almôndega Bovina 🥩"},
+        {"id": "8", "data_produto": "musculo-mandioca", "texto": "Músculo Bovino com Mandioca 🥩"},
+        {"id": "9", "data_produto": "bife-bovino", "texto": "Bife Bovino 🥩"},
+        {"id": "10", "data_produto": "bife-figado", "texto": "Bife de Fígado Bovino 🥩"},
+        {"id": "11", "data_produto": "costela-bovina", "texto": "Costela Bovina 🍖"},
+        {"id": "12", "data_produto": "musculo-cozido", "texto": "Músculo Cozido 🥩"},
+        {"id": "13", "data_produto": "disco-carne", "texto": "Disco de Carne Bovina 🥩"}
     ],
     "carne suina": [
-        {"id": "13", "data_produto": "pernil-suino", "texto": "Bife Pernil Suíno 🥩"}
+        {"id": "14", "data_produto": "pernil-suino", "texto": "Bife Pernil Suíno 🐷"}
     ],
     "carne aves": [
-        {"id": "14", "data_produto": "bife-frango", "texto": "Bife de Frango 🍗"},
-        {"id": "15", "data_produto": "frango-frito", "texto": "Frango Frito 🍗"},
-        {"id": "16", "data_produto": "frango-assado", "texto": "Frango Assado 🍗"},
-        {"id": "17", "data_produto": "linguica-frango", "texto": "Linguiça de Frango Assada 🍗"}
+        {"id": "15", "data_produto": "bife-frango", "texto": "Bife de Frango 🍗"},
+        {"id": "16", "data_produto": "frango-frito", "texto": "Frango Frito 🍗"},
+        {"id": "17", "data_produto": "frango-assado", "texto": "Frango Assado 🍗"},
+        {"id": "18", "data_produto": "linguica-frango", "texto": "Linguiça de Frango Assada 🍗"}
     ],
     "carne peixe": [
-        {"id": "18", "data_produto": "file-tilapia-empadado", "texto": "Filé de Tilápia Empanado 🐟"}
+        {"id": "19", "data_produto": "file-tilapia-empadado", "texto": "Filé de Tilápia Empanado 🐟"}
     ],
     "complemento": [
-        {"id": "19", "data_produto": "pequi-milho-verde", "texto": "Pequi com Milho Verde 🌽"},
-        {"id": "20", "data_produto": "angu-milho", "texto": "Angu de Milho 🌽"},
-        {"id": "21", "data_produto": "milho-refogado", "texto": "Milho Refogado 🌽"},
-        {"id": "22", "data_produto": "mandioca-cozida", "texto": "Mandioca Cozida 🍠"},
-        {"id": "23", "data_produto": "batata-assada", "texto": "Batata Assada 🥔"},
-        {"id": "24", "data_produto": "abobrinha-refogada", "texto": "Abobrinha Refogada 🎃"},
-        {"id": "25", "data_produto": "bolinho-arroz", "texto": "Bolinho de Arroz 🍚"}
+        {"id": "20", "data_produto": "pequi-milho-verde", "texto": "Pequi com Milho Verde 🌽"},
+        {"id": "21", "data_produto": "angu-milho", "texto": "Angu de Milho 🌽"},
+        {"id": "22", "data_produto": "milho-refogado", "texto": "Milho Refogado 🌽"},
+        {"id": "23", "data_produto": "mandioca-cozida", "texto": "Mandioca Cozida 🍠"},
+        {"id": "24", "data_produto": "batata-assada", "texto": "Batata Assada 🥔"},
+        {"id": "25", "data_produto": "abobrinha-refogada", "texto": "Abobrinha Refogada 🥒"},
+        {"id": "26", "data_produto": "bolinho-arroz", "texto": "Bolinho de Arroz 🍚"}
     ],
     "fritura": [
-        {"id": "26", "data_produto": "banana-frita", "texto": "Banana Frita 🍌"}
+        {"id": "27", "data_produto": "banana-frita", "texto": "Banana Frita 🍌"}
     ],
     "molhos": [
-        {"id": "27", "data_produto": "molho-cara", "texto": "Molho de Cará 🥔"},
-        {"id": "28", "data_produto": "molho-chuchu", "texto": "Molho de Chuchu 🥬"},
-        {"id": "29", "data_produto": "molho-batata", "texto": "Molho de Batata 🥔"},
-        {"id": "30", "data_produto": "molho-abobora-milho", "texto": "Molho de Abóbora Cabotiá e Milho 🎃🌽"},
-        {"id": "31", "data_produto": "molho-abobora-jilo", "texto": "Molho de Abóbora Cabotiá e Jiló 🎃"},
-        {"id": "32", "data_produto": "molho-carne-batata", "texto": "Molho de Carne Moída com Batata 🥔"}
+        {"id": "28", "data_produto": "molho-cara", "texto": "Molho de Cará 🥔"},
+        {"id": "29", "data_produto": "molho-chuchu", "texto": "Molho de Chuchu 🥬"},
+        {"id": "30", "data_produto": "molho-batata", "texto": "Molho de Batata 🥔"},
+        {"id": "31", "data_produto": "molho-abobora-milho", "texto": "Molho de Abóbora Cabotiá e Milho 🎃🌽"},
+        {"id": "32", "data_produto": "molho-abobora-jilo", "texto": "Molho de Abóbora Cabotiá e Jiló 🎃"},
+        {"id": "33", "data_produto": "molho-carne-batata", "texto": "Molho de Carne Moída com Batata 🥔"}
     ],
     "salada": [
-        {"id": "33", "data_produto": "couve-refogado", "texto": "Couve Refogada 🥬"},
-        {"id": "34", "data_produto": "salada-fria", "texto": "Salada Fria 🥗"},
-        {"id": "35", "data_produto": "beterraba-cenoura", "texto": "Beterraba e Cenoura 🥕"},
-        {"id": "36", "data_produto": "salada-maionese", "texto": "Salada de Maionese 🍲"},
-        {"id": "37", "data_produto": "alface-tomate", "texto": "Alface e Tomate 🥗"},
-        {"id": "38", "data_produto": "beterraba-cozida", "texto": "Beterraba Cozida 🥗"}
+        {"id": "34", "data_produto": "alface", "texto": "Alface 🥬"},
+        {"id": "35", "data_produto": "couve-refogado", "texto": "Couve Refogada 🥬"},
+        {"id": "36", "data_produto": "salada-fria", "texto": "Salada Fria 🥗"},
+        {"id": "37", "data_produto": "beterraba-cenoura", "texto": "Beterraba e Cenoura 🥕"},
+        {"id": "38", "data_produto": "salada-maionese", "texto": "Salada de Maionese 🥗"},
+        {"id": "39", "data_produto": "alface-tomate", "texto": "Alface e Tomate 🥗"},
+        {"id": "40", "data_produto": "beterraba-cozida", "texto": "Beterraba Cozida 🥗"}
     ],
     "fruta": [
-        {"id": "39", "data_produto": "laranja", "texto": "Laranja 🍊"}
+        {"id": "41", "data_produto": "laranja", "texto": "Laranja 🍊"}
+    ],
+    "refrigerante": [
+        {"id": "42", "data_produto": "coca-cola1l", "texto": "Coca-Cola 1l 🥤"},
+        {"id": "43", "data_produto": "coca-cola2l", "texto": "Coca-Cola 2l 🥤"},
+        {"id": "44", "data_produto": "guarana-antartica2l", "texto": "Guarana antartica 2l 🥤"},
+        {"id": "45", "data_produto": "fanta-laranja2l", "texto": "Fanta Laranja 2l 🥤"}
     ]
 }
